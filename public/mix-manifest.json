@@ -1,0 +1,21 @@
+{
+    "/js/build/app.js": "/js/build/app.js",
+    "/css/build/AdminLTE.css": "/css/build/AdminLTE.css",
+    "/css/build/app.css": "/css/build/app.css",
+    "/css/build/overrides.css": "/css/build/overrides.css",
+    "/css/dist/skins/skin-blue.css": "/css/dist/skins/skin-blue.css",
+    "/css/dist/skins/skin-red.css": "/css/dist/skins/skin-red.css",
+    "/css/dist/skins/skin-contrast.css": "/css/dist/skins/skin-contrast.css",
+    "/css/dist/skins/skin-green.css": "/css/dist/skins/skin-green.css",
+    "/css/dist/skins/skin-green-dark.css": "/css/dist/skins/skin-green-dark.css",
+    "/css/dist/skins/skin-black.css": "/css/dist/skins/skin-black.css",
+    "/css/dist/skins/skin-black-dark.css": "/css/dist/skins/skin-black-dark.css",
+    "/css/dist/skins/skin-red-dark.css": "/css/dist/skins/skin-red-dark.css",
+    "/css/dist/skins/skin-purple.css": "/css/dist/skins/skin-purple.css",
+    "/css/dist/skins/skin-purple-dark.css": "/css/dist/skins/skin-purple-dark.css",
+    "/css/dist/skins/skin-yellow.css": "/css/dist/skins/skin-yellow.css",
+    "/css/dist/skins/skin-yellow-dark.css": "/css/dist/skins/skin-yellow-dark.css",
+    "/css/dist/skins/skin-blue-dark.css": "/css/dist/skins/skin-blue-dark.css",
+    "/css/dist/skins/skin-orange-dark.css": "/css/dist/skins/skin-orange-dark.css",
+    "/css/dist/skins/skin-orange.css": "/css/dist/skins/skin-orange.css"
+}
