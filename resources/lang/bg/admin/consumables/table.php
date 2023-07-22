@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Консуматив',
-);
+<?php
+
+return array(
+    'title'      				=> 'Консуматив',
+);

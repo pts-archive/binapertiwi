@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Име на компонента',
-);
+<?php
+
+return array(
+    'title'      				=> 'Име на компонента',
+);

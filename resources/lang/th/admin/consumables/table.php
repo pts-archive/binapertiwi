@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'ชื่อวัสดุสิ้นเปลือง',
-);
+<?php
+
+return array(
+    'title'      				=> 'ชื่อวัสดุสิ้นเปลือง',
+);

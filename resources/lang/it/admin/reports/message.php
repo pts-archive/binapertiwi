@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'error'   => 'È necessario selezionare almeno un\'opzione.'
-);
+<?php
+
+return array(
+    'error'   => 'È necessario selezionare almeno un\'opzione.'
+);

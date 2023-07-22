@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'שם רכיב',
-);
+<?php
+
+return array(
+    'title'      				=> 'שם רכיב',
+);

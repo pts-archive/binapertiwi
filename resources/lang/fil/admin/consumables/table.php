@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Ang Pangalan ng Consumable',
-);
+<?php
+
+return array(
+    'title'      				=> 'Ang Pangalan ng Consumable',
+);

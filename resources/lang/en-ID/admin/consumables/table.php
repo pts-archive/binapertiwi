@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Nama Konsumable',
-);
+<?php
+
+return array(
+    'title'      				=> 'Nama Konsumable',
+);

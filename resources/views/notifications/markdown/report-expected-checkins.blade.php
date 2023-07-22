@@ -1,21 +1,21 @@
-@component('mail::message')
-# {{ trans('mail.hello') }},
-
-The following {{ $assets->count() }} items are due to be checked in soon:
-
-@component('mail::table')
-| Asset | Checked Out to | Expected Checkin |
-| ------------- | ------------- | ------------- |
-@foreach ($assets as $asset)
-@php
-$checkin = \App\Helpers\Helper::getFormattedDateObject($asset->expected_checkin, 'date');
-@endphp
-| [{{ $asset->present()->name }}]({{ route('hardware.show', ['hardware' => $asset->id]) }}) | [{{ $asset->assigned->present()->fullName }}]({{ route('users.show', ['user'=>$asset->assigned->id]) }})  | {{ $checkin['formatted'] }}
-@endforeach
-@endcomponent
-
-{{ trans('mail.best_regards') }}
-
-{{ $snipeSettings->site_name }}
-
-@endcomponent
+@component('mail::message')
+# {{ trans('mail.hello') }},
+
+{{ trans('general.due_to_checkin', array('count' => $assets->count())) }}
+
+@component('mail::table')
+| {{ trans('general.assets') }} | {{ trans('general.checked_out_to') }} | {{ trans('general.expected_checkin') }} |
+| ------------- | ------------- | ------------- |
+@foreach ($assets as $asset)
+@php
+$checkin = Helper::getFormattedDateObject($asset->expected_checkin, 'date');
+@endphp
+| [{{ $asset->present()->name }}]({{ route('hardware.show', ['hardware' => $asset->id]) }}) | [{{ $asset->assigned->present()->fullName }}]({{ route($asset->targetShowRoute().'.show', [$asset->assigned->id]) }})  | {{ $checkin['formatted'] }}
+@endforeach
+@endcomponent
+
+{{ trans('mail.best_regards') }}
+
+{{ $snipeSettings->site_name }}
+
+@endcomponent

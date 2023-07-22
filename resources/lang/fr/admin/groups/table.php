@@ -1,9 +1,9 @@
-<?php
-
-return array(
-
-    'id'         => 'ID',
-    'name'       => 'Nom',
-    'users'      => '# d\' Utilisateurs',
-
-);
+<?php
+
+return array(
+
+    'id'         => 'ID',
+    'name'       => 'Nom',
+    'users'      => '# d\' Utilisateurs',
+
+);

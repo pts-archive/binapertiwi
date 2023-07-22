@@ -1,14 +1,14 @@
-<?php
-
-    return [
-        'asset_maintenance_type' => 'Jenis Penyelenggaraan',
-        'title'                  => 'Tajuk',
-        'start_date'             => 'Mula',
-        'completion_date'        => 'Siap',
-        'cost'                   => 'Kos',
-        'is_warranty'            => 'Penambahbaikan Waranti',
-        'asset_maintenance_time' => 'Hari',
-        'notes'                  => 'Nota',
-        'update'                 => 'Kemaskini',
-        'create'                 => 'Cipta'
-    ];
+<?php
+
+    return [
+        'asset_maintenance_type' => 'Asset Maintenance Type',
+        'title'                  => 'Tajuk',
+        'start_date'             => 'Start Date',
+        'completion_date'        => 'Completion Date',
+        'cost'                   => 'Kos',
+        'is_warranty'            => 'Penambahbaikan Waranti',
+        'asset_maintenance_time' => 'Asset Maintenance Time (in days)',
+        'notes'                  => 'Nota',
+        'update'                 => 'Update Asset Maintenance',
+        'create'                 => 'Create Asset Maintenance'
+    ];

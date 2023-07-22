@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'error'   => 'Kumele ukhethe okungenani ukhetho olulodwa.'
-);
+<?php
+
+return array(
+    'error'   => 'Kumele ukhethe okungenani ukhetho olulodwa.'
+);

@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Enw nwydd traul',
-);
+<?php
+
+return array(
+    'title'      				=> 'Enw nwydd traul',
+);

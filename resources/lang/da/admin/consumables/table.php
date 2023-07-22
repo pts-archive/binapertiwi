@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Forbrugelighedsnavn',
-);
+<?php
+
+return array(
+    'title'      				=> 'Forbrugelighedsnavn',
+);

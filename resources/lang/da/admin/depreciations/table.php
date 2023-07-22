@@ -1,10 +1,11 @@
-<?php
-
-return array(
-
-    'id'      => 'ID',
-    'months'   => 'Måneder',
-    'term'   => 'Term',
-    'title'      => 'Navn ',
-
-);
+<?php
+
+return [
+
+    'id'      => 'ID',
+    'months'   => 'Måneder',
+    'term'   => 'Term',
+    'title'      => 'Navn ',
+    'depreciation_min' => 'Bæreværdi',
+
+];

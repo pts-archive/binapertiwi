@@ -1,27 +1,27 @@
-<?php
-
-return array(
-    'about_suppliers_title' => 'About Suppliers',
-    'about_suppliers_text'  => 'Suppliers are used to track the source of items',
-    'address'               => 'Supplier Address',
-    'assets'                => 'Assets',
-    'city'                  => 'City',
-    'contact'               => 'Contact Name',
-    'country'               => 'Country',
-    'create'                => 'Create Supplier',
-    'email'                 => 'Email',
-    'fax'                   => 'Fax',
-    'id'                    => 'ID',
-    'licenses'              => 'Licenses',
-    'name'                  => 'Supplier Name',
-    'notes'                 => 'Notes',
-    'phone'                 => 'Phone',
-    'state'                 => 'State',
-    'suppliers'             => 'Suppliers',
-    'update'                => 'Update Supplier',
-    'url'                   => 'URL',
-    'view'                  => 'View Supplier',
-    'view_assets_for'       => 'View Assets for',
-    'zip'                   => 'Postal Code',
-
-);
+<?php
+
+return array(
+    'about_suppliers_title' => 'Um birgja',
+    'about_suppliers_text'  => 'Birgjar eru notaðir til að rekja uppruna hluta',
+    'address'               => 'Heimilisfang birgja',
+    'assets'                => 'Eignir',
+    'city'                  => 'Borg',
+    'contact'               => 'Nafn tengiliðar',
+    'country'               => 'Land',
+    'create'                => 'Skrá birgja',
+    'email'                 => 'Netfang',
+    'fax'                   => 'Fax',
+    'id'                    => 'ID',
+    'licenses'              => 'Leyfi',
+    'name'                  => 'Heiti birgja',
+    'notes'                 => 'Notes',
+    'phone'                 => 'Sími',
+    'state'                 => 'State',
+    'suppliers'             => 'Birgjar',
+    'update'                => 'Update Supplier',
+    'url'                   => 'URL',
+    'view'                  => 'Skoða birgja',
+    'view_assets_for'       => 'View Assets for',
+    'zip'                   => 'Póstnúmer',
+
+);

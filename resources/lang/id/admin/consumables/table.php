@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Nama Barang Habis Pakai',
-);
+<?php
+
+return array(
+    'title'      				=> 'Nama Barang Habis Pakai',
+);
