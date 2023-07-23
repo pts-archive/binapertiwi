@@ -1,10 +1,11 @@
-<?php
-
-return array(
-
-    'id'      => 'ID',
-    'months'   => 'Μήνες',
-    'term'   => 'Όρος',
-    'title'      => 'Όνομα ',
-
-);
+<?php
+
+return [
+
+    'id'      => 'ID',
+    'months'   => 'Μήνες',
+    'term'   => 'Όρος',
+    'title'      => 'Όνομα ',
+    'depreciation_min' => 'Floor Value',
+
+];

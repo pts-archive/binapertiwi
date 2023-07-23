@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'error'   => 'Legalább egy lehetőséget kell választania.'
-);
+<?php
+
+return array(
+    'error'   => 'Legalább egy lehetőséget kell választania.'
+);

@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Paturējamais nosaukums',
-);
+<?php
+
+return array(
+    'title'      				=> 'Paturējamais nosaukums',
+);

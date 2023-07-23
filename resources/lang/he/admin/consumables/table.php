@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'שם מתכלה',
-);
+<?php
+
+return array(
+    'title'      				=> 'שם מתכלה',
+);

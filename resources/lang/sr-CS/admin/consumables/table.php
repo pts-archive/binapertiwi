@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Naziv potrošnog materijala',
-);
+<?php
+
+return array(
+    'title'      				=> 'Naziv potrošnog materijala',
+);

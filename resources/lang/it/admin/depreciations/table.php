@@ -1,10 +1,11 @@
-<?php
-
-return array(
-
-    'id'      => 'ID',
-    'months'   => 'Mesi',
-    'term'   => 'Termine',
-    'title'      => 'Nome ',
-
-);
+<?php
+
+return [
+
+    'id'      => 'ID',
+    'months'   => 'Mesi',
+    'term'   => 'Termine',
+    'title'      => 'Nome ',
+    'depreciation_min' => 'Valore Del Piano',
+
+];

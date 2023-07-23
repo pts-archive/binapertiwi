@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Όνομα αναλώσιμου',
-);
+<?php
+
+return array(
+    'title'      				=> 'Όνομα αναλώσιμου',
+);

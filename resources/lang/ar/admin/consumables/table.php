@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'إسم المادة الإستهلاكية',
-);
+<?php
+
+return array(
+    'title'      				=> 'إسم المادة الإستهلاكية',
+);

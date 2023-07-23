@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'error'   => 'Jums jāizvēlas vismaz ONE iespēja.'
-);
+<?php
+
+return array(
+    'error'   => 'Jums jāizvēlas vismaz ONE iespēja.'
+);

@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Verbruiksartikel naam',
-);
+<?php
+
+return array(
+    'title'      				=> 'Verbruiksartikel naam',
+);

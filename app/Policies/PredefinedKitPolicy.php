@@ -1,11 +1,11 @@
-<?php
-
-namespace App\Policies;
-
-class PredefinedKitPolicy extends SnipePermissionsPolicy
-{
-    protected function columnName()
-    {
-        return 'kits';
-    }
-}
+<?php
+
+namespace App\Policies;
+
+class PredefinedKitPolicy extends SnipePermissionsPolicy
+{
+    protected function columnName()
+    {
+        return 'kits';
+    }
+}

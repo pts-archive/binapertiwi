@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Suavrtojamos įrangos pavadinimas',
-);
+<?php
+
+return array(
+    'title'      				=> 'Suavrtojamos įrangos pavadinimas',
+);

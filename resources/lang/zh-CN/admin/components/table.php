@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> '名称',
-);
+<?php
+
+return array(
+    'title'      				=> '名称',
+);

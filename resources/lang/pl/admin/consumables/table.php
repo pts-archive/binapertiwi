@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Nazwa materiału eksploatacyjnego',
-);
+<?php
+
+return array(
+    'title'      				=> 'Nazwa materiału eksploatacyjnego',
+);

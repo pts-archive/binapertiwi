@@ -1,15 +1,16 @@
-<?php
-
-return array(
-    'component_name'                  => 'Component Name',
-    'checkin'                             => 'Checkin Component',
-    'checkout'                             => 'Checkout Component',
-    'cost'				=> 'Purchase Cost',
-    'create'                             => 'Create Component',
-    'edit'                             => 'Edit Component',
-    'date'					=> 'Purchase Date',
-    'order'					=> 'Order Number',
-    'remaining' 			             => 'Remaining',
-    'total' 			                 => 'Total',
-    'update'                            => 'Update Component',
-);
+<?php
+
+return array(
+    'component_name'                  => 'Heiti íhlutar',
+    'checkin'                             => 'Checkin Component',
+    'checkout'                             => 'Checkout Component',
+    'cost'				=> 'Innkaupsverð',
+    'create'                             => 'Skrá íhlut',
+    'edit'                             => 'Breyta íhluti',
+    'date'					=> 'Innkaups dagsetning',
+    'order'					=> 'Pöntunarnúmer',
+    'remaining' 			             => 'Remaining',
+    'total' 			                 => 'Total',
+    'update'                            => 'Uppfæra íhlut',
+    'checkin_limit'            => 'Amount checked in must be equal to or less than :assigned_qty'
+);

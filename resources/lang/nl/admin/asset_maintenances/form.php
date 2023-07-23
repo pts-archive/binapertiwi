@@ -1,14 +1,14 @@
-<?php
-
-    return [
-        'asset_maintenance_type' => 'Onderhoudstype',
-        'title'                  => 'Titel',
-        'start_date'             => 'Gestart',
-        'completion_date'        => 'Voltooid',
-        'cost'                   => 'Kostprijs',
-        'is_warranty'            => 'Garantie verbetering',
-        'asset_maintenance_time' => 'Dagen',
-        'notes'                  => 'Notities',
-        'update'                 => 'Bijwerken',
-        'create'                 => 'Creeër'
-    ];
+<?php
+
+    return [
+        'asset_maintenance_type' => 'Asset Maintenance Type',
+        'title'                  => 'Titel',
+        'start_date'             => 'Begindatum',
+        'completion_date'        => 'Completion Date',
+        'cost'                   => 'Kostprijs',
+        'is_warranty'            => 'Garantieverbetering',
+        'asset_maintenance_time' => 'Asset Maintenance Time (in days)',
+        'notes'                  => 'Notities',
+        'update'                 => 'Update Asset Maintenance',
+        'create'                 => 'Create Asset Maintenance'
+    ];

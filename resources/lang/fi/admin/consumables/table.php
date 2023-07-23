@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Kulutustarvikkeen nimi',
-);
+<?php
+
+return array(
+    'title'      				=> 'Kulutustarvikkeen nimi',
+);

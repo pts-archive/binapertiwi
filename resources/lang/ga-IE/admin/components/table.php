@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'title'      				=> 'Ainm an Chomhpháirt',
-);
+<?php
+
+return array(
+    'title'      				=> 'Ainm an Chomhpháirt',
+);

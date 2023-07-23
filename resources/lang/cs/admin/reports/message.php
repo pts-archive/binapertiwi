@@ -1,5 +1,5 @@
-<?php
-
-return array(
-    'error'   => 'Musíte vybrat alespoň jednu možnost.'
-);
+<?php
+
+return array(
+    'error'   => 'Musíte vybrat alespoň jednu možnost.'
+);

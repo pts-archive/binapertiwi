@@ -1,7 +1,8 @@
-<?php
-namespace App\Models;
-
-interface ICompanyableChild
-{
-    public function getCompanyableParents();
-}
+<?php
+
+namespace App\Models;
+
+interface ICompanyableChild
+{
+    public function getCompanyableParents();
+}

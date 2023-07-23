@@ -1,14 +1,14 @@
-<?php
-
-    return [
-        'asset_maintenance_type' => 'Tip de întreținere',
-        'title'                  => 'Titlu',
-        'start_date'             => 'A început',
-        'completion_date'        => 'terminat',
-        'cost'                   => 'A costat',
-        'is_warranty'            => 'Îmbunătățirea garanției',
-        'asset_maintenance_time' => 'zi',
-        'notes'                  => 'notițe',
-        'update'                 => 'Actualizați',
-        'create'                 => 'Crea'
-    ];
+<?php
+
+    return [
+        'asset_maintenance_type' => 'Asset Maintenance Type',
+        'title'                  => 'Titlu',
+        'start_date'             => 'Start Date',
+        'completion_date'        => 'Completion Date',
+        'cost'                   => 'A costat',
+        'is_warranty'            => 'Îmbunătățirea garanției',
+        'asset_maintenance_time' => 'Asset Maintenance Time (in days)',
+        'notes'                  => 'notițe',
+        'update'                 => 'Update Asset Maintenance',
+        'create'                 => 'Create Asset Maintenance'
+    ];
